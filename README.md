@@ -15,3 +15,10 @@ V9.7: Removed colored/decorative icon glyphs from dimensional controls and norma
 
 ## Athena Easter Egg (v9.8)
 In the terminal type `athena` (case insensitive) and press Enter. A fullscreen visual heart explosion plays. Close with button, Escape, or outside click. Reduced-motion mode disables flashes and particle animation. All previous site content is preserved.
+
+
+## Athena password Easter egg
+Terminal: `athena` -> enter password `1380` -> Athena heart animation. The field masks typed input; wrong password is denied. Escape cancels. Password verification is client-side JavaScript and is an Easter egg, not a secure authentication mechanism.
+
+
+V10: Type `chaos mode` or `chaos` in the terminal for a controlled cinematic system-breach animation. Automatic recovery after 6.5 seconds, immediate ESC or RESTORE exit, reduced-motion support, 34 temporary fragments, no rapid flashing. The previous chaos button triggers the same effect.
