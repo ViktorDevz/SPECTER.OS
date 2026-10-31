@@ -1,4 +1,4 @@
-SPECTER.OS V9.6 — DOOM repair
+SPECTER.OS V9.6
 
 The previous DOOM integration mixed js-dos v7 and a remotely hosted bundle whose accessibility was uncertain. This build uses js-dos v8 with its documented bundled DOOM sample and v8 player API.
 
@@ -11,14 +11,5 @@ NOTE: The remote DOOM bundle and library are third-party dependencies; working g
 
 
 V9.7: Removed colored/decorative icon glyphs from dimensional controls and normalized visual accents; replaced broken overlapping central diamond with stable concentric portal and readable centered label. No changes to Doom, music, gallery or contact.
-
-
-## Athena Easter Egg (v9.8)
-In the terminal type `athena` (case insensitive) and press Enter. A fullscreen visual heart explosion plays. Close with button, Escape, or outside click. Reduced-motion mode disables flashes and particle animation. All previous site content is preserved.
-
-
-## Athena password Easter egg
-Terminal: `athena` -> enter password `1380` -> Athena heart animation. The field masks typed input; wrong password is denied. Escape cancels. Password verification is client-side JavaScript and is an Easter egg, not a secure authentication mechanism.
-
 
 V10: Type `chaos mode` or `chaos` in the terminal for a controlled cinematic system-breach animation. Automatic recovery after 6.5 seconds, immediate ESC or RESTORE exit, reduced-motion support, 34 temporary fragments, no rapid flashing. The previous chaos button triggers the same effect.
